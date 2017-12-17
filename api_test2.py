@@ -3,6 +3,10 @@
 # Created by Xuzhenjie on 2017/12/18
 # -*- coding: utf8 -*-
 # code by Shurrik
+"""
+python 并发测试脚本
+"""
+
 import threading, time, httplib
 
 HOST = "www.baidu.com";  # 主机地址 例如192.168.1.101
